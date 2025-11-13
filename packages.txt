@@ -1,0 +1,2 @@
+libheif-dev
+libheif1
